@@ -3,7 +3,7 @@
 Better music player
 
 <!-- demo apk link -->
-[Download APK]()
+[Download APK](https://github.com/siddastic/musicx/releases/tag/v2)
 
 ## Features
 
