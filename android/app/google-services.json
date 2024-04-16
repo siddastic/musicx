@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493956810676",
+    "project_id": "musicx-e8250",
+    "storage_bucket": "musicx-e8250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493956810676:android:cf8c32c81abc3fdcd8d4e1",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7xXb4rBi9KZqjuacotBmSEzdC4GQIHNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
