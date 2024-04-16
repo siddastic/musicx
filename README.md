@@ -14,7 +14,8 @@ Better music player
 ### Preview
 
 <!-- Preview video -->
-<video src = "./doc/preview.mp4" width = 150 controls></video>
+<video src = "https://github.com/siddastic/musicx/assets/47083394/b995a2e0-7497-4be4-b056-a2f5e41291da" width = "150"> </video>
+
 
 ## Testing
 
