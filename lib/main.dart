@@ -1,3 +1,4 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -25,6 +26,8 @@ void main() async {
       systemNavigationBarColor: Color(0xff1e201e),
     ),
   );
+  FirebaseFirestore.instance.settings =
+      const Settings(persistenceEnabled: true);
   runApp(
     MultiProvider(
       providers: [
